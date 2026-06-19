@@ -4,7 +4,7 @@ const FILES_TO_CACHE = [
   "./index.html",
   "./page2.html",
   "./manifest.webmanifest",
-  "./img/logo.jpg"
+  "./img/logo-Xcut.png"
 ];
 
 self.addEventListener("install", event => {
